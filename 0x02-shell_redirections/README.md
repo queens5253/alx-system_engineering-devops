@@ -3,4 +3,5 @@
 
 2.Let`s display a file -> Display the content of the etc/passwd file
 3.What about 2 -> Display content of two files
-4.Last lines of a file -> Display the last 10lines of /etc/passwd.
+4.Last lines of a file -> Display the last 10lines of /etc/passwd
+5.First lines of a file -> Display the first 10lines of /etc/passwd.
