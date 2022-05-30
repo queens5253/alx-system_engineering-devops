@@ -1,1 +1,1 @@
-My First Bash Project
+My first Shell redirections Project
