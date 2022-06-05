@@ -18,4 +18,7 @@
 16.Display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 17.Display all the lines in the file /etc/passwd that do not contain the pattern bin
 18.Display all the lines of the file /etc/ssh/sshd_config starting with a letter 
-19.Replace all the characters A and c from input to Z and e respectively 
+19.Replace all the characters A and c from input to Z and e respectively
+20.Script that removes all letters c and C from input
+21.Script that reverses it input
+22.Script that displays all users and their home directories sorted by users 
